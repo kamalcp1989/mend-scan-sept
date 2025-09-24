@@ -1,0 +1,9 @@
+{
+  "scanSettings": {
+    "baseBranches": ["master", "main", "test1"]
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW",
+    "issueType": "DEPENDENCY"
+  }
+}
